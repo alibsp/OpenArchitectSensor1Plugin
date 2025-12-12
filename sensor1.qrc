@@ -1,0 +1,6 @@
+
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Sensor1Panel.qml</file>
+    </qresource>
+</RCC>
